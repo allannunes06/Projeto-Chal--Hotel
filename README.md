@@ -1,2 +1,4 @@
-# Projeto Chalé Hotel
+# Projeto Chalé Hotel 🏨
+
+Projeto para treinamento de HTML e CSS.
  
