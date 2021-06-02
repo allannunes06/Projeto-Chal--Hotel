@@ -3,5 +3,5 @@
 Projeto para treinamento de HTML e CSS.
 
 
-<img src="./img.PNG" alt="exemplo imagem" width="1100px">
+<img src="./1.PNG" alt="exemplo imagem" width="1100px">
  
